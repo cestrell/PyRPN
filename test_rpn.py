@@ -18,6 +18,6 @@ class TestBasics(unittest.TestCase):
 		result = rpn.calculate("4 2 /")
 		self.assertEqual(2, result)
 	
-	def test_mul(self)
+	def test_mul(self):
 		result = rpn.calculate("3 4 *")
 		self.assertEqual(12, result)
