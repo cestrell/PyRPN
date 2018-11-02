@@ -6,6 +6,7 @@ operators = {
 	'-': operator.sub,
 	'*': operator.mul,
 	'/': operator.truediv,
+	'^': operator.pow,
 }
 
 def calculate(myarg):
@@ -30,4 +31,5 @@ def main():
 		result = calculate(input("rpn calc> "))
 		print("Result: ", result)
 
-if __name__ == '__main__':     main()
+if __name__ == '__main__':
+     main()
