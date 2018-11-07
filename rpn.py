@@ -10,6 +10,9 @@ operators = {
 	'^': operator.pow,
 }
 
+def noCoverage():
+	print("This is not covered, so coverage should go down")
+
 def calculate(myarg):
 	stack = list()
 	for token in myarg.split():
