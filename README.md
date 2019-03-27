@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cestrell/c4cs-f18-rpn-advhw.svg?branch=master)](https://travis-ci.org/cestrell/c4cs-f18-rpn-advhw)
+[![Build Status](https://travis-ci.org/cestrell/PyRPN.svg?branch=master)](https://travis-ci.org/cestrell/PyRPN)
 [![Coverage Status](https://coveralls.io/repos/github/cestrell/PyRPN/badge.svg?branch=master)](https://coveralls.io/github/cestrell/PyRPN?branch=master)
 # PyRPN
 
