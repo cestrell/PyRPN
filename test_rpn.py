@@ -16,7 +16,7 @@ class TestBasics(unittest.TestCase):
 	
 	def test_mul(self):
 		result = rpn.calculate("3 4 *")
-		self.assertEqual(12, result1)
+		self.assertEqual(12, result)
 
 	def test_exp(self):
 		result = rpn.calculate("2 3 ^")
